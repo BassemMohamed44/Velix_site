@@ -1,5 +1,4 @@
 # Velix App
-# Velix
 
 Velix is a fast and powerful media downloader designed for public and user-authorized content.
 
